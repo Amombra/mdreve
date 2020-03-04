@@ -1,0 +1,78 @@
+[
+    {
+        "id":1,
+        "nom":"location",
+        "image":"https://cdn.pixabay.com/photo/2016/11/16/12/55/winter-1828779__340.jpg",
+        "maison": [
+                    {
+                        "id":1,
+                        "nom_proprietaire": "Opportune Katché",
+                        "image":"https://cdn.pixabay.com/photo/2016/11/18/17/46/architecture-1836070__340.jpg",
+                        "localisation":"Cocody Saint Jean",
+                        "nombre_piece":"4 pièces",
+                        "type_maison":"Duplex",
+                        "prix":"4 500 000 FCFA",
+                        "numero":"+225 52419909"
+                    },
+                    {
+                        "id":2,
+                        "nom_proprietaire": "Donald Kassi",
+                        "image":"https://cdn.pixabay.com/photo/2016/11/21/15/09/apartments-1845884__340.jpg",
+                        "localisation":"Cocody Palmeraie",
+                        "nombre_piece":"3 pièces",
+                        "type_maison":"Duplex",
+                        "prix":"3 550 000 FCFA",
+                        "numero":"+225 02292856"
+                    },
+                    {
+                        "id":3,
+                        "nom_proprietaire": "Andoche Kouassi",
+                        "image":"https://cdn.pixabay.com/photo/2016/04/18/08/50/kitchen-1336160__340.jpg",
+                        "localisation":"Cocody Palmeraie",
+                        "nombre_piece":"2 pièces",
+                        "type_maison":"Duplex",
+                        "prix":"2 550 000 FCFA",
+                        "numero":"+225 56489752"
+                    }
+                  ]
+    },
+
+
+    {
+        "id":2,
+        "nom":"Ventes",
+        "image":"https://cdn.pixabay.com/photo/2018/10/06/17/27/input-3728350__340.jpg",
+        "maison": [
+                    {
+                        "id":1,
+                        "nom_proprietaire": "Sylvanus Amom",
+                        "image":"https://cdn.pixabay.com/photo/2016/12/30/07/59/kitchen-1940174__340.jpg",
+                        "localisation":"Cocody Saint Jean",
+                        "nombre_piece":"4 pièces",
+                        "type_maison":"Duplex",
+                        "prix":"4 500 000 FCFA",
+                        "numero":"+225 52419909"
+                    },
+                    {
+                        "id":2,
+                        "nom_proprietaire": "Yohou Eunice",
+                        "image":"https://cdn.pixabay.com/photo/2017/01/07/17/48/interior-1961070__340.jpg",
+                        "localisation":"Cocody Abatta",
+                        "nombre_piece":"3 pièces",
+                        "type_maison":"Duplex",
+                        "prix":"3 550 000 FCFA",
+                        "numero":"+225 45698752"
+                    },
+                    {
+                        "id":3,
+                        "nom_proprietaire": "Didgeu Liame",
+                        "image":"https://cdn.pixabay.com/photo/2012/11/21/10/24/building-66789__340.jpg",
+                        "localisation":"Cocody Palmeraie",
+                        "nombre_piece":"1 pièce",
+                        "type_maison":"Studio",
+                        "prix":"200 000",
+                        "numero":"+225 56489752"
+                    }
+                  ]
+    }
+]
